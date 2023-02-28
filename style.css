@@ -1,6 +1,10 @@
-h1 {
+#title {
   font-size: 50px;
   color: purple;
   text-align: center;
   background-color: pink;
+}
+
+.subtitle {
+  text-align: center;
 }
