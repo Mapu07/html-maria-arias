@@ -1,10 +1,4 @@
-#title {
-  font-size: 50px;
-  color: purple;
-  text-align: center;
-  background-color: pink;
-}
-
-.subtitle {
-  text-align: center;
+#prove {
+  text-shadow: 10px 15px plum;
+  text-transform: uppercase;
 }
