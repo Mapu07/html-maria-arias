@@ -1,0 +1,23 @@
+#title {
+  text-shadow: 10px 13px plum;
+  text-transform: uppercase;
+}
+
+#l1 {
+  background-color: khaki;
+}
+#l2 {
+  color: seagreen;
+}
+.l3y4 {
+  background-color: black;
+  color: white;
+}
+.l5y6 {
+  text-transform: uppercase;
+  color: aqua;
+}
+#l7 {
+  font-size: 20px;
+  text-shadow: 10px 13px palevioletred;
+}
