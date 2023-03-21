@@ -2,5 +2,22 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  filter: drop-shadow(10px 10px palevioletred);
+}
+#kirbytit {
+  color: palevioletred;
+  text-align: center;
+}
+
+#deskirby {
+  text-align: center;
+}
+
+#kuromitit {
+  text-align: left;
+}
+#kuromi {
+  display: block;
+  margin-right: 10px;
   filter: drop-shadow(10px 10px plum);
 }
